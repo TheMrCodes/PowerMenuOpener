@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Power Menu Opener</string>
+    <string name="create_shortcut_activity_name">Open Power Button - Shortcut</string>
+    <string name="open_power_menu">Open Power Menu</string>
+</resources>
